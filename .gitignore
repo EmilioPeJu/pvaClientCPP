@@ -6,7 +6,6 @@
 /html/
 /include/
 /templates/
-/configure/*.local
 /documentation/html
 /documentation/*.tag
 O.*/
